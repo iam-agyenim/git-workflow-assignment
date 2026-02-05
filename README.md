@@ -17,3 +17,10 @@ I think PR's are a great ways to hear contributions and decide which ones are wo
 
 **By Richmond Agyenim-Boateng:**
 Great article choice! PRs are essential for team collaboration. I like how they make code reviews systematic and transparent.
+
+### Key Takeaways:
+- PRs enable systematic code reviews
+- They create transparency in team projects  
+- GitHub's PR interface makes collaboration easy
+- Essential for open source contribution
+
